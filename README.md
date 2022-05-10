@@ -6,14 +6,14 @@ When you have selected the Photo-Folder you want to view, you can start a slide-
 
 This App was built with Power Apps Studio.
 
-##Requirements
+## Requirements
 
 PowerApps Licence 
 Sharepoint Document Library
 Folders with Photos
 Copy (ZIP-Download of this Repository)
 
-##Deployment Guide
+## Deployment Guide
 1. Download the Code here(LINK) if you have not done it so far.
 2. Extract all files from the ZIP-Folder.
 3. Find the .msapp file.
