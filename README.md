@@ -8,10 +8,10 @@ This App was built with Power Apps Studio.
 
 ## Requirements
 
-PowerApps Licence 
-Sharepoint Document Library
-Folders with Photos
-Copy (ZIP-Download of this Repository)
+1. PowerApps Licence 
+2. Sharepoint Document Library
+3.Folders with Photos
+4. Copy (ZIP-Download of this Repository)
 
 ## Deployment Guide
 1. Download the Code here(LINK) if you have not done it so far.
@@ -24,3 +24,10 @@ Copy (ZIP-Download of this Repository)
 8. Add to MS Teams
 9. Have fun
 10. How to add new Photos to your Photo viewer.
+
+## Deployment Guide Step-by-step:
+
+| No.| Description ||
+| ----------- | ----------- ||
+| Header | Title ||
+| Paragraph | Text ||
