@@ -14,10 +14,10 @@ This App was built with Power Apps Studio.
 4. Copy (ZIP-Download of this Repository)
 
 ## Deployment Guide
-1. Download the Code here(LINK) if you have not done it so far.
-2. Extract all files from the ZIP-Folder.
-3. Find the .msapp file.
-4. Open Power Apps Studio (LINK) and sign in with your credentials.
+1. Download the Code [here](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Fotos%20(Events%20%26%20Vacay)%203.msapp) if you have not done it so far.
+2. Extract all files from the **ZIP-Folder**.
+3. Find the **.msapp** file.
+4. Open [Power Apps Studio](https://make.preview.powerapps.com) and sign in with your credentials.
 5. Replace the Sharepoint Connector with your own Sharepoint Site.
 6. Replace the "Documents" path with the Path to your own document library name.
 7. Safe the App
