@@ -26,16 +26,20 @@ This App was built with Power Apps Studio.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(11).png)
 4.4 You will get to the Home Page of PowerApps Studio. In the upper left corner click on **File**.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(12).png)
-4.5 On the right, click on **Open** and then on **Browse**. Select the .msapp file you downloaded earlier.
+4.5 On the right, click on **Open** and then on **Browse**. Select the .msapp file you downloaded earlier. If PowerApps asks you to **save** you can click **NO** for now.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(13).png)
-4.6 Now you have to fix the connection to the Sharepoint Site, that hostes your pictures.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(14).png)
+4.6 Now you have to click **Fix connection** to connect the Sharepoint Site, that hostes your pictures. Just click on **Allow** (we have to change to your connection in a second).
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(15).png)
-
 5. Replace the Sharepoint Connector with your own Sharepoint Site.
-
+![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(18).png)
+![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(19).png)
+![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(20).png)
+![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(21).png)
+![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(22).png)
+![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(23).png)
+![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(24).png)
 6. Replace the "Documents" path with the Path to your own document library name.
-
 7. Safe the App
 8. Add to MS Teams
 9. Have fun
