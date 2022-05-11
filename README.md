@@ -19,29 +19,17 @@ This App was built with Power Apps Studio.
 3. Find the **.msapp** file. Save it so you can easily find it later. (Download-folder is also fine)
 4. Open [Power Apps Studio](https://make.preview.powerapps.com) and sign in with your credentials.
 4.1 Click on **Blank app**.
-
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(9).png)
-
 4.2 Under Blank canvas app, click on **Create**.
-
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(10).png)
-
 4.3 Enter an application Name (e.g.: MyPhotoApp), check if **Tablet** is selected and continue with a click on **Create**.
-
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(11).png)
-
 4.4 You will get to the Home Page of PowerApps Studio. In the upper left corner click on **File**.
-
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(12).png)
-
 4.5 On the right, click on **Open** and then on **Browse**. Select the .msapp file you downloaded earlier.
-
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(13).png)
-
 4.6 Now you have to fix the connection to the Sharepoint Site, that hostes your pictures.
-
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(14).png)
-
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(15).png)
 
 5. Replace the Sharepoint Connector with your own Sharepoint Site.
