@@ -31,17 +31,21 @@ This App was built with Power Apps Studio.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(14).png)
 4.6 Now you have to click **Fix connection** to connect the Sharepoint Site, that hostes your pictures. Just click on **Allow** (we have to change to your connection in a second).
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(15).png)
-5. Replace the Sharepoint Connector with your own Sharepoint Site.
+5. Replace the Sharepoint Connector with your own Sharepoint Site. Click on the data connector symbol. Click on the three dots next to the **Sharepoint** Data Connector. 
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(18).png)
+5.1 Click on the **Remove** button.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(19).png)
+5.2 Click on **Add** and search for **Sharepoint**. Select **Sharepoint.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(20).png)
+5.3 Choose the **Sharepoint Site** you want to connect to.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(21).png)
+5.4 Choose the list (document library) your photos are stored in. Click **Connect**
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(22).png)
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(23).png)
+5.5 as the last step: Go to **the Tree view** and select the Gallery1. Make sure **Items** is selected in the function field. Instead of **Documents** you have to fill in the **Name** of your document library.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(24).png)
-6. Replace the "Documents" path with the Path to your own document library name.
-7. Safe the App
-8. Add to MS Teams
-9. Have fun
-10. How to add new Photos to your Photo viewer.
+6. Safe the App
+7. Add to MS Teams COMING SOON
+8. Have fun
+9. How to add new Photos to your Photo viewer. COMING SOON
 
