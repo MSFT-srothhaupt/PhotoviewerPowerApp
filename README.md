@@ -44,7 +44,7 @@ This App was built with Power Apps Studio.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(23).png)
 5.5 as the last step: Go to **the Tree view** and select the Gallery1. Make sure **Items** is selected in the function field. Instead of **Documents** you have to fill in the **Name** of your document library.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(24).png)
-6. Safe the App
+6. Save the App.
 7. Add to MS Teams COMING SOON
 8. Have fun
 9. How to add new Photos to your Photo viewer. COMING SOON
