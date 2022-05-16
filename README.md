@@ -35,7 +35,7 @@ This App was built with Power Apps Studio.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(18).png)
 5.1 Click on the **Remove** button.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(19).png)
-5.2 Click on **Add** and search for **Sharepoint**. Select **Sharepoint.
+5.2 Click on **Add** and search for **Sharepoint**. Select **Sharepoint**.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(20).png)
 5.3 Choose the **Sharepoint Site** you want to connect to.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(21).png)
