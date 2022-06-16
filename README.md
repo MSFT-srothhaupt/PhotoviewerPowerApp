@@ -14,7 +14,7 @@ This App was built with Power Apps Studio.
 4. Copy (ZIP-Download of this Repository)
 
 ## Deployment Guide
-1. Download the Code [here](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Fotos%20(Events%20%26%20Vacay)%203.msapp) if you have not done it so far.
+1. Download the Code [here](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/raw/main/Photoviewer%20(1).msapp) if you have not done it so far.
 2. Extract all files from the **ZIP-Folder**.
 3. Find the **.msapp** file. Save it so you can easily find it later. (Download-folder is also fine)
 4. Open [Power Apps Studio](https://make.preview.powerapps.com) and sign in with your credentials.
@@ -41,10 +41,9 @@ This App was built with Power Apps Studio.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(29).png)
 5.4 Choose the list (document library) your photos are stored in. Click **Connect**
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(30).png)
-5.5 as the last step: Go to **the Tree view** and select the Gallery_Photopreview. Make sure **Items** is selected in the function field. Instead of **Documents** you have to fill in the **Name** of your document library.
+5.5 as the last step: Go to 1. **the Tree view** and select the 2. **App**. Make sure 3. **OnStart** is selected in the function field. Instead of **Shared Documents** you have to fill in the **Name** of your document library.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(34).png)
 6. Save the App.
-7. Add to MS Teams COMING SOON
-8. Have fun
-9. How to add new Photos to your Photo viewer. COMING SOON
+7. If you want to add the App to Microsoft Teams, please follow this [guide](https://docs.microsoft.com/en-us/power-apps/teams/embed-teams-tab).
+
 
