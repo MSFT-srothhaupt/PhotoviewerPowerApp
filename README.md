@@ -14,7 +14,7 @@ This App was built with Power Apps Studio.
 4. Copy (ZIP-Download of this Repository)
 
 ## Deployment Guide
-1. Download the Code [here](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/raw/main/Photoviewer%20.msapp) if you have not done it so far.
+1. Download the Code [here](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/raw/main/Photoviewer.msapp) if you have not done it so far.
 2. Extract all files from the **ZIP-Folder**.
 3. Find the **.msapp** file. Save it so you can easily find it later. (Download-folder is also fine)
 4. Open [Power Apps Studio](https://make.preview.powerapps.com) and sign in with your credentials.
