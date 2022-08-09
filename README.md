@@ -41,7 +41,7 @@ This App was built with Power Apps Studio.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(29).png)
 5.4 Choose the list (document library) your photos are stored in. Click **Connect**
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(30).png)
-5.5 The lastnstep is to change the name to your Document library in the Power App itself: 
+5.5 The last step is to change the name to your Document library in the Power App itself: 
 	1. Go to **the Tree view** 
 	2. and select the **App**. 
 	3. Make sure **OnStart** is selected in the function field.
