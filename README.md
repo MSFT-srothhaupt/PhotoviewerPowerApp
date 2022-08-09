@@ -48,6 +48,8 @@ This App was built with Power Apps Studio.
 	4. In the first line: Instead of **Shared Documents** you have to fill in the **Name** of your document library. If the name of your Document library is **Documents** you have to keep the **Shared** in front of the **Documents**!
 	5. In the second line: Instead of **Documents** you have to fill in the **Name** of your documents library. Here you DON'T have to add the **Shared** in front of the library name.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%202022-08-09%20150623.png)
+5.6 To make your changes visible you might want to click the "Run on Start Button".
+![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%202022-08-09%20153134.png)
 6. Save the App.
 7. If you want to add the App to Microsoft Teams, please follow this [guide](https://docs.microsoft.com/en-us/power-apps/teams/embed-teams-tab).
 
