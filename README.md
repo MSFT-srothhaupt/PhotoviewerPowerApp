@@ -41,11 +41,12 @@ This App was built with Power Apps Studio.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(29).png)
 5.4 Choose the list (document library) your photos are stored in. Click **Connect**
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(30).png)
-5.5 as the last step: 
+5.5 The lastnstep is to change the name to your Document library in the Power App itself: 
 	1. Go to **the Tree view** 
 	2. and select the **App**. 
 	3. Make sure **OnStart** is selected in the function field.
-	4. Instead of **Documents** you have to fill in the **Name** of your document library.
+	4. In the first line: Instead of **Shared Documents** you have to fill in the **Name** of your document library. If the name of your Document library is **Documents** you have to keep the **Shared** in front of the **Documents**!
+	5. In the second line: Instead of **Documents** you have to fill in the **Name** of your documents library.
 ![Landing page of PowerApps Studio](https://github.com/MSFT-srothhaupt/PhotoviewerPowerApp/blob/main/Deployment_Photos/Screenshot%20(34).png)
 6. Save the App.
 7. If you want to add the App to Microsoft Teams, please follow this [guide](https://docs.microsoft.com/en-us/power-apps/teams/embed-teams-tab).
